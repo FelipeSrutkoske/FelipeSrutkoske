@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=3500&pause=1000&color=00F702&width=435&lines=felipe.srutkoske%40github%3A+~%24+whoami;Felipe+Srutkoske+-+Backend+Software+Engineer)](https://git.io/typing-svg)
 
 <!--
 **FelipeSrutkoske/FelipeSrutkoske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

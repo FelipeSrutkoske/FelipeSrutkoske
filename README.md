@@ -1,5 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=3500&pause=1000&color=00F702&width=435&lines=felipe.srutkoske%40github%3A+~%24+whoami;Felipe+Srutkoske+-+Backend+Software+Engineer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=32&duration=2500&pause=550&color=00F723&center=true&vCenter=true&repeat=false&width=600&lines=INITIALIZING%3A+GITHUB+PROFILE" alt="Typing SVG" /></a>
+<br>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=2500&pause=550&color=00F70A&vCenter=true&width=435&lines=my.profile%40github%3A+~%24+whoami" alt="Typing SVG" /></a>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=2500&pause=550&color=6D00F7&vCenter=true&width=435&lines=Felipe+Srutkoske" alt="Typing SVG" /></a>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=2500&pause=550&color=00EDF7&vCenter=true&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeSrutkoske&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeSrutkoske&theme=2077) | 
+| :-: | :-: |
 <!--
 **FelipeSrutkoske/FelipeSrutkoske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,25 +1,25 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=32&duration=2500&pause=550&color=00F723&center=true&vCenter=true&repeat=false&width=1200&lines=INITIALIZING%3A+GITHUB+PROFILE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=32&duration=1500&pause=550&color=00F723&center=true&vCenter=true&repeat=false&width=1200&lines=INITIALIZING%3A+GITHUB+PROFILE" alt="Typing SVG" /></a>
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&duration=2500&pause=550&color=00F723&vCenter=true&repeat=false&width=700&lines=my_profile%40github%3A+~%24+whoami" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&duration=3000&pause=550&color=00F723&vCenter=true&repeat=false&width=700&lines=my_profile%40github%3A+~%24+whoami" alt="Typing SVG" /></a>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&duration=2500&pause=550&color=6500F7&vCenter=true&repeat=false&width=700&lines=Felipe+Srutkoske" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&duration=3000&pause=550&color=6500F7&vCenter=true&repeat=false&width=700&lines=Felipe+Srutkoske" alt="Typing SVG" /></a>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&duration=2500&pause=550&color=00F7BF&vCenter=true&repeat=false&width=700&lines=Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&duration=3000&pause=550&color=00F7BF&vCenter=true&repeat=false&width=700&lines=Software+Engineer" alt="Typing SVG" /></a>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeSrutkoske&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeSrutkoske&theme=2077) | 
 | :-: | :-: |
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=24&duration=2500&pause=550&color=00F72B&vCenter=true&repeat=false&width=700&lines=my_profile%40github%3A+~%24+development+skills" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=24&duration=2000&pause=550&color=00F72B&vCenter=true&repeat=false&width=700&lines=my_profile%40github%3A+~%24+development+skills" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=2500&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+JavaScript" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=3000&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+JavaScript" alt="Typing SVG" /></a> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=2500&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+TypeScript" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=3000&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+TypeScript" alt="Typing SVG" /></a> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=2500&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+GO" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=3000&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+GO" alt="Typing SVG" /></a> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=2500&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+Python" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=3000&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+Python" alt="Typing SVG" /></a> 
 
 
 

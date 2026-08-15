@@ -1,52 +1,71 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=32&duration=1500&pause=550&color=00F723&center=true&vCenter=true&repeat=false&width=1200&lines=INITIALIZING%3A+GITHUB+PROFILE" alt="Typing SVG" /></a>
-<br>
+<!-- PROFILE README | FelipeSrutkoske -->
+<!-- README atualizado: visual, estatísticas, stack, projetos e links. -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&duration=3000&pause=550&color=00F723&vCenter=true&repeat=false&width=700&lines=my_profile%40github%3A+~%24+whoami" alt="Typing SVG" /></a>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&duration=3000&pause=550&color=6500F7&vCenter=true&repeat=false&width=700&lines=Felipe+Srutkoske" alt="Typing SVG" /></a>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&duration=3000&pause=550&color=00F7BF&vCenter=true&repeat=false&width=700&lines=Software+Engineer" alt="Typing SVG" /></a>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeSrutkoske&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeSrutkoske&theme=2077) | 
-| :-: | :-: |
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=24&duration=2000&pause=550&color=00F72B&vCenter=true&repeat=false&width=700&lines=my_profile%40github%3A+~%24+development+skills" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=3000&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+JavaScript" alt="Typing SVG" /></a> 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=3000&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+TypeScript" alt="Typing SVG" /></a> 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=3000&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+GO" alt="Typing SVG" /></a> 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=500&size=21&duration=3000&pause=550&color=00B3F7&vCenter=true&repeat=false&width=700&lines=~+Python" alt="Typing SVG" /></a> 
-
-
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=32&duration=1800&pause=700&color=7C3AED&center=true&vCenter=true&repeat=false&width=900&lines=Felipe+Srutkoske" alt="Felipe Srutkoske" />
+  </a>
+  <p><strong>Software Engineer</strong><br />Construindo soluções, explorando tecnologia e transformando ideias em produto.</p>
+  <a href="https://www.linkedin.com/in/felipesrutkoske/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:flqs.development@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://github.com/FelipeSrutkoske"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
-<br>
-<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=32&duration=2500&pause=550&color=00F723&center=true&vCenter=true&repeat=false&width=1200&lines=my_profile%40github%3A+~%24+contact" alt="Typing SVG" /></a>
-<br>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipesrutkoske/">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+## Sobre mim
 
-  <a href="mailto:flqs.development@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+Sou desenvolvedor apaixonado por tecnologia, produtos digitais e aprendizado contínuo. Gosto de entender problemas reais, criar soluções simples e evoluir projetos com código limpo e boas práticas.
 
-  <a href="https://discord.gg/felipesavage.">
-    <img src="https://img.shields.io/badge/Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+- Desenvolvimento de aplicações e APIs
+- Estudo contínuo de arquitetura, qualidade e novas tecnologias
+- Interesse em projetos que gerem impacto prático
+- Aberto a conexões, colaboração e boas ideias
 
+## Stack
+
+<!-- Stack reorganizada a partir das tecnologias já apresentadas no perfil. -->
+
+### Linguagens
+
+<div><img src="https://skillicons.dev/icons?i=javascript,typescript,go,python,java,php" alt="JavaScript, TypeScript, Go, Python, Java e PHP" /></div>
+
+### Ecossistema e ferramentas
+
+<div><img src="https://skillicons.dev/icons?i=react,nodejs,html,css,mysql,git,github,vscode" alt="React, Node.js, HTML, CSS, MySQL, Git, GitHub e VS Code" /></div>
+
+## Projetos em destaque
+
+<!-- Projetos públicos existentes no perfil. -->
+
+| Projeto | Link |
+| --- | --- |
+| VehiGo | [Ver repositório](https://github.com/FelipeSrutkoske/VehiGo) |
+| TCC TrackIt | [Ver repositório](https://github.com/FelipeSrutkoske/TCC_TrackIt) |
+| Srutfolio | [Ver repositório](https://github.com/FelipeSrutkoske/Srutfolio) |
+| VT Shield | [Ver repositório](https://github.com/FelipeSrutkoske/VT_SHIELD) |
+
+## GitHub em números
+
+<!-- Cards dinâmicos gerados automaticamente pela atividade pública do perfil. -->
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeSrutkoske&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSrutkoske&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FelipeSrutkoske&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSrutkoske&bg_color=0d1117&color=7c3aed&line=00f7bf&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/FelipeSrutkoske"><img src="https://komarev.com/ghpvc/?username=FelipeSrutkoske&color=7C3AED&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" /></a>
+  <br /><br />
+  <em>"Grandes projetos começam com uma boa ideia e evoluem com consistência."</em>
+</div>

@@ -11,6 +11,14 @@
   <a href="https://github.com/FelipeSrutkoske"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
+<!-- Terminal animado: mantido entre a apresentação e a seção Sobre mim. -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1100&color=BB86FC&background=0D1117&center=true&vCenter=true&repeat=true&width=900&height=120&lines=%24+whoami;felipe%40github%3A~%24+cat+about-me.txt;Software+Engineer+%7C+building+cool+things;felipe%40github%3A~%24+git+status;working+tree+clean+%E2%9C%93;felipe%40github%3A~%24+./deploy.sh" alt="Terminal shell roxo animado" />
+</div>
+
+---
+
 ---
 
 ## Sobre mim

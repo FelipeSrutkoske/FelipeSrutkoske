@@ -11,21 +11,6 @@
   <a href="https://github.com/FelipeSrutkoske"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-<!-- Terminal animado: janela shell roxa inserida entre a apresentação e a seção Sobre mim. -->
-
-<table align="center">
-  <tr>
-    <td bgcolor="#0D1117">
-      <div align="center">
-        <strong>● ● ●</strong><br />
-        <code>felipe@github:~$</code><br /><br />
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1100&color=BB86FC&background=0D1117&center=true&vCenter=true&repeat=true&width=820&height=110&lines=whoami;cat+about-me.txt;Software+Engineer+%7C+building+cool+things;git+status;working+tree+clean+%E2%9C%93;./deploy.sh" alt="Terminal shell roxo animado" /><br />
-        <code>_</code>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Sobre mim
@@ -51,14 +36,38 @@ Sou desenvolvedor apaixonado por tecnologia, produtos digitais e aprendizado con
 
 ## Projetos em destaque
 
-<!-- Projetos públicos existentes no perfil. -->
+<!-- Cards de projetos: layout em grade para facilitar a leitura no perfil. -->
 
-| Projeto | Link |
-| --- | --- |
-| VehiGo | [Ver repositório](https://github.com/FelipeSrutkoske/VehiGo) |
-| TCC TrackIt | [Ver repositório](https://github.com/FelipeSrutkoske/TCC_TrackIt) |
-| Srutfolio | [Ver repositório](https://github.com/FelipeSrutkoske/Srutfolio) |
-| VT Shield | [Ver repositório](https://github.com/FelipeSrutkoske/VT_SHIELD) |
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚗 VehiGo</h3>
+      <a href="https://github.com/FelipeSrutkoske/VehiGo">
+        <img src="https://img.shields.io/badge/ABRIR_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir projeto VehiGo" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📍 TCC TrackIt</h3>
+      <a href="https://github.com/FelipeSrutkoske/TCC_TrackIt">
+        <img src="https://img.shields.io/badge/ABRIR_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir projeto TCC TrackIt" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💼 Srutfolio</h3>
+      <a href="https://github.com/FelipeSrutkoske/Srutfolio">
+        <img src="https://img.shields.io/badge/ABRIR_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir projeto Srutfolio" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛡️ VT Shield</h3>
+      <a href="https://github.com/FelipeSrutkoske/VT_SHIELD">
+        <img src="https://img.shields.io/badge/ABRIR_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir projeto VT Shield" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## GitHub em números
 

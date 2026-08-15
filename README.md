@@ -38,10 +38,10 @@ Sou desenvolvedor apaixonado por tecnologia, produtos digitais e aprendizado con
 
 Escolha um projeto para conhecer meu trabalho:
 
-[![VehiGo](https://img.shields.io/badge/🚗%20VehiGo-7C3AED?style=flat&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/VehiGo)
-[![TCC%20TrackIt](https://img.shields.io/badge/📍%20TCC%20TrackIt-7C3AED?style=flat&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/TCC_TrackIt)
-[![Srutfolio](https://img.shields.io/badge/💼%20Srutfolio-7C3AED?style=flat&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/Srutfolio)
-[![VT%20Shield](https://img.shields.io/badge/🛡️%20VT%20Shield-7C3AED?style=flat&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/VT_SHIELD)
+[![VehiGo](https://img.shields.io/badge/VehiGo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/VehiGo)
+[![TCC%20TrackIt](https://img.shields.io/badge/TCC%20TrackIt-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/TCC_TrackIt)
+[![Srutfolio](https://img.shields.io/badge/Srutfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/Srutfolio)
+[![VT%20Shield](https://img.shields.io/badge/VT%20Shield-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/VT_SHIELD)
 
 ## Atividade no GitHub
 

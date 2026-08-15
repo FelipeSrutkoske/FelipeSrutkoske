@@ -36,55 +36,16 @@ Sou desenvolvedor apaixonado por tecnologia, produtos digitais e aprendizado con
 
 ## Projetos em destaque
 
-<!-- Cards de projetos: layout em grade para facilitar a leitura no perfil. -->
+Escolha um projeto para conhecer meu trabalho:
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚗 VehiGo</h3>
-      <a href="https://github.com/FelipeSrutkoske/VehiGo">
-        <img src="https://img.shields.io/badge/ABRIR_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir projeto VehiGo" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>📍 TCC TrackIt</h3>
-      <a href="https://github.com/FelipeSrutkoske/TCC_TrackIt">
-        <img src="https://img.shields.io/badge/ABRIR_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir projeto TCC TrackIt" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💼 Srutfolio</h3>
-      <a href="https://github.com/FelipeSrutkoske/Srutfolio">
-        <img src="https://img.shields.io/badge/ABRIR_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir projeto Srutfolio" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🛡️ VT Shield</h3>
-      <a href="https://github.com/FelipeSrutkoske/VT_SHIELD">
-        <img src="https://img.shields.io/badge/ABRIR_PROJETO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir projeto VT Shield" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![VehiGo](https://img.shields.io/badge/🚗%20VehiGo-7C3AED?style=flat&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/VehiGo)
+[![TCC%20TrackIt](https://img.shields.io/badge/📍%20TCC%20TrackIt-7C3AED?style=flat&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/TCC_TrackIt)
+[![Srutfolio](https://img.shields.io/badge/💼%20Srutfolio-7C3AED?style=flat&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/Srutfolio)
+[![VT%20Shield](https://img.shields.io/badge/🛡️%20VT%20Shield-7C3AED?style=flat&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/VT_SHIELD)
 
-## GitHub em números
+## Atividade no GitHub
 
-<!-- Cards dinâmicos gerados automaticamente pela atividade pública do perfil. -->
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeSrutkoske&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSrutkoske&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipeSrutkoske&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSrutkoske&bg_color=0d1117&color=7c3aed&line=00f7bf&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
-</div>
+![Gráfico de contribuições de Felipe Srutkoske](https://github-readme-activity-graph.vercel.app/graph?username=FelipeSrutkoske&bg_color=0d1117&color=7c3aed&line=00f7bf&point=ffffff&area=true&hide_border=true)
 
 ---
 

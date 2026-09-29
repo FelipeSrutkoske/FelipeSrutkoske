@@ -1,56 +1,64 @@
-<!-- PROFILE README | FelipeSrutkoske -->
-<!-- README atualizado: visual, estatísticas, stack, projetos e links. -->
-
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=32&duration=1800&pause=700&color=7C3AED&center=true&vCenter=true&repeat=false&width=900&lines=Felipe+Srutkoske" alt="Felipe Srutkoske" />
-  </a>
-  <p><strong>Software Engineer</strong><br />Construindo soluções, explorando tecnologia e transformando ideias em produto.</p>
-  <a href="https://www.linkedin.com/in/felipesrutkoske/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:flqs.development@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://github.com/FelipeSrutkoske"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=800&color=31D7C4&center=true&vCenter=true&width=720&lines=Felipe+Srutkoske;Backend+Developer+%7C+Go+%26+APIs" alt="Felipe Srutkoske | Backend Developer, Go e APIs" />
+
+<br />
+
+<a href="https://felipesrutkoske.dev"><img src="https://img.shields.io/badge/PORTFOLIO-101827?style=for-the-badge&logo=googlechrome&logoColor=31D7C4" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/felipesrutkoske/"><img src="https://img.shields.io/badge/LINKEDIN-101827?style=for-the-badge&logo=linkedin&logoColor=31D7C4" alt="LinkedIn" /></a>
+<a href="mailto:srutkoske.felipe@gmail.com"><img src="https://img.shields.io/badge/CONTATO-101827?style=for-the-badge&logo=gmail&logoColor=31D7C4" alt="E-mail" /></a>
+
+<br /><br />
+
+<b>Backend • Go em foco • Sistemas reais em produção</b>
+
 </div>
 
----
+<br />
 
-## Sobre mim
-
-Sou desenvolvedor apaixonado por tecnologia, produtos digitais e aprendizado contínuo. Gosto de entender problemas reais, criar soluções simples e evoluir projetos com código limpo e boas práticas.
-
-- Desenvolvimento de aplicações e APIs
-- Estudo contínuo de arquitetura, qualidade e novas tecnologias
-- Interesse em projetos que gerem impacto prático
-- Aberto a conexões, colaboração e boas ideias
-
-## Stack
-
-<!-- Stack reorganizada a partir das tecnologias já apresentadas no perfil. -->
-
-### Linguagens
-
-<div><img src="https://skillicons.dev/icons?i=javascript,typescript,go,python,java,php" alt="JavaScript, TypeScript, Go, Python, Java e PHP" /></div>
-
-### Ecossistema e ferramentas
-
-<div><img src="https://skillicons.dev/icons?i=react,nodejs,html,css,mysql,git,github,vscode" alt="React, Node.js, HTML, CSS, MySQL, Git, GitHub e VS Code" /></div>
-
-## Projetos em destaque
-
-Escolha um projeto para conhecer meu trabalho:
-
-[![VehiGo](https://img.shields.io/badge/VehiGo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/VehiGo)
-[![TCC%20TrackIt](https://img.shields.io/badge/TCC%20TrackIt-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/TCC_TrackIt)
-[![Srutfolio](https://img.shields.io/badge/Srutfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/Srutfolio)
-[![VT%20Shield](https://img.shields.io/badge/VT%20Shield-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeSrutkoske/VT_SHIELD)
-
-## Atividade no GitHub
-
-![Gráfico de contribuições de Felipe Srutkoske](https://github-readme-activity-graph.vercel.app/graph?username=FelipeSrutkoske&bg_color=0d1117&color=7c3aed&line=00f7bf&point=ffffff&area=true&hide_border=true)
-
----
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=FelipeSrutkoske&show_icons=true&hide_border=true&bg_color=101827&title_color=31D7C4&icon_color=31D7C4&text_color=E6EDF3&include_all_commits=true" height="165" alt="Estatísticas do GitHub" />
+</td>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com?user=FelipeSrutkoske&theme=transparent&hide_border=true&background=101827&ring=31D7C4&fire=F4B942&currStreakLabel=31D7C4&sideLabels=E6EDF3&dates=9AA7B5" height="165" alt="Sequência de contribuições" />
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <a href="https://github.com/FelipeSrutkoske"><img src="https://komarev.com/ghpvc/?username=FelipeSrutkoske&color=7C3AED&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" /></a>
-  <br /><br />
-  <em>"Grandes projetos começam com uma boa ideia e evoluem com consistência."</em>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSrutkoske&bg_color=101827&color=E6EDF3&line=31D7C4&point=F4B942&area=true&hide_border=true" width="98%" alt="Gráfico de atividade no GitHub" />
+</div>
+
+<h3 align="center">⚙️ Stack</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=go,php,js,ts,nodejs,nestjs,nextjs,react,postgres,mysql,docker,linux&perline=6" alt="Go, PHP, JavaScript, TypeScript, Node.js, NestJS, Next.js, React, PostgreSQL, MySQL, Docker e Linux" />
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🚚 TrackIt</h3>
+<p>Rastreio de entregas<br />API · Dashboard · App mobile</p>
+<a href="https://github.com/FelipeSrutkoske/TCC_TrackIt"><img src="https://img.shields.io/badge/VER_PROJETO-101827?style=for-the-badge&logo=github&logoColor=31D7C4" alt="Ver TrackIt" /></a>
+</td>
+<td width="33%" align="center">
+<h3>🧵 Go Concurrency</h3>
+<p>Goroutines e channels<br />Prática de concorrência em Go</p>
+<a href="https://github.com/FelipeSrutkoske/go-concurrency"><img src="https://img.shields.io/badge/VER_PROJETO-101827?style=for-the-badge&logo=github&logoColor=31D7C4" alt="Ver Go Concurrency" /></a>
+</td>
+<td width="33%" align="center">
+<h3>🚘 VehiGo</h3>
+<p>Microsserviços · PostgreSQL<br />Docker · React Native</p>
+<a href="https://github.com/FelipeSrutkoske/VehiGo"><img src="https://img.shields.io/badge/VER_PROJETO-101827?style=for-the-badge&logo=github&logoColor=31D7C4" alt="Ver VehiGo" /></a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Campo Mourão, PR · Aberto a oportunidades no Brasil</sub>
 </div>

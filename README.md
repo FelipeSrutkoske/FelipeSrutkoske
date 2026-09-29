@@ -5,10 +5,10 @@
 <br />
 
 <a href="https://felipesrutkoske.dev"><img src="https://img.shields.io/badge/PORTFOLIO-101827?style=for-the-badge&logo=googlechrome&logoColor=31D7C4" alt="Portfólio" /></a>
-<a href="https://www.linkedin.com/in/felipesrutkoske/"><img src="https://img.shields.io/badge/LINKEDIN-101827?style=for-the-badge&logo=linkedin&logoColor=31D7C4" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/felipesrutkoske/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
 <a href="mailto:srutkoske.felipe@gmail.com"><img src="https://img.shields.io/badge/CONTATO-101827?style=for-the-badge&logo=gmail&logoColor=31D7C4" alt="E-mail" /></a>
 
-<br /><br />
+<br />
 
 <b>Backend • Go em foco • Sistemas reais em produção</b>
 
@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=FelipeSrutkoske&show_icons=true&hide_border=true&bg_color=101827&title_color=31D7C4&icon_color=31D7C4&text_color=E6EDF3&include_all_commits=true" height="165" alt="Estatísticas do GitHub" />
+<img src="https://github-stats-extended.vercel.app/api?username=FelipeSrutkoske&show_icons=true&hide_rank=true&hide=stars,prs,issues&hide_border=true&bg_color=101827&title_color=31D7C4&icon_color=31D7C4&text_color=E6EDF3&include_all_commits=true" height="165" alt="Estatísticas do GitHub" />
 </td>
 <td width="50%" align="center">
 <img src="https://streak-stats.demolab.com?user=FelipeSrutkoske&theme=transparent&hide_border=true&background=101827&ring=31D7C4&fire=F4B942&currStreakLabel=31D7C4&sideLabels=E6EDF3&dates=9AA7B5" height="165" alt="Sequência de contribuições" />
@@ -28,7 +28,7 @@
 </table>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSrutkoske&bg_color=101827&color=E6EDF3&line=31D7C4&point=F4B942&area=true&hide_border=true" width="98%" alt="Gráfico de atividade no GitHub" />
+<img src="https://ghchart.xqsit94.in/dark:31d7c4/FelipeSrutkoske" width="100%" alt="Contribuições diárias no GitHub" />
 </div>
 
 <h3 align="center">⚙️ Stack</h3>
@@ -39,7 +39,7 @@
 
 <br />
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center">
 <h3>🚚 TrackIt</h3>

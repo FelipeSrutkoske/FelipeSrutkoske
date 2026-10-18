@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=5000&color=F8F8F2&center=true&vCenter=true&repeat=false&width=850&height=65&lines=Felipe+Srutkoske" />
 
   <!-- SUBTÍTULO ANIMADO -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=800&height=40&lines=Software+Engineer+%7C+Backend+%26+Fullstack+Developer;Arquitetura+de+Sistemas+Escal%C3%A1veis+%26+Microsservi%C3%A7os;Backend+Specialist+(Go%2C+Node.js%2C+NestJS%2C+TypeScript);Engenharia+de+Dados+SQL+%26+Infraestrutura+em+Containers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=800&height=40&lines=Software+Engineer+%7C+Backend+%26+Fullstack+Developer;Arquitetura+de+Sistemas+Escal%C3%A1veis+%26+Microsservi%C3%A7os;Backend+Developer+(Go%2C+Node.js%2C+NestJS%2C+TypeScript);Engenharia+de+Dados+SQL+%26+Infraestrutura+em+Containers" />
 
   <br/><br/>
 
@@ -12,7 +12,7 @@
   <p align="center">
     <a href="https://felipesrutkoske.dev" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-felipesrutkoske.dev-bd93f9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=282a36" height="28" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/felipesrutkoske/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Felipe_Srutkoske-6272a4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282a36" height="28" /></a>&nbsp;
-    <a href="mailto:contato@felipesrutkoske.dev"><img src="https://img.shields.io/badge/Email-Contato_Direto-ff79c6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282a36" height="28" /></a>&nbsp;
+    <a href="mailto:srutkoske.felipe@gmail.com"><img src="https://img.shields.io/badge/Email-Contato_Direto-ff79c6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282a36" height="28" /></a>&nbsp;
   </p>
 
 </div>
@@ -21,7 +21,7 @@
 
 ### `>_ whoami`
 
-Engenheiro de Computação e Analista de Sistemas com foco na construção de arquiteturas backend robustas, APIs de alta disponibilidade e aplicações Fullstack modernas. Experiência sólida em análise e otimização de bancos de dados relacionais, depuração de sistemas críticos em produção, virtualização e orquestração de microsserviços.
+Engenheiro de Software com foco na construção de arquiteturas backend robustas, APIs de alta disponibilidade e aplicações Fullstack modernas. Experiência sólida em análise e otimização de bancos de dados relacionais, depuração de sistemas críticos em produção, virtualização e orquestração de microsserviços.
 
 * **Foco Técnico:** Desenvolvimento Backend (**Go**, **Node.js**, **NestJS**, **TypeScript**) e Ecossistema Moderno Web/Mobile (**Next.js**, **React**, **React Native**).
 * **Arquitetura & Dados:** Modelagem relacional avançada (**PostgreSQL**, **MySQL**), mensageria e cache (**Redis**), proxies reversos (**Nginx**) e ambientes isolados (**Docker**, **Linux**).
@@ -82,7 +82,7 @@ Engenheiro de Computação e Analista de Sistemas com foco na construção de ar
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">📦 TrackIt — Auditoria Logística Last-Mile</h4>
+      <h4 align="center"> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-package preview-icon"><path d="M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"/><path d="M12 22V12"/><polyline points="3.29 7 12 12 20.71 7"/><path d="m7.5 4.27 9 5.15"/></svg> TrackIt - Auditoria Logística Last-Mile</h4>
       <p align="center">
         Ecossistema Fullstack e Mobile para rastreamento e auditoria de entregas em tempo real, garantindo integridade de pacotes e validação em campo.
       </p>

@@ -82,7 +82,7 @@ Engenheiro de Software com foco na construção de arquiteturas backend robustas
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"> <img src="https://api.iconify.design/lucide/package.svg" width="24" alt="Pacote"> TrackIt - Auditoria Logística Last-Mile</h4>
+      <h4 align="center"> <img src="https://api.iconify.design/lucide/package.svg?color=white" width="24" alt="Pacote"> TrackIt - Auditoria Logística Last-Mile</h4>
       <p align="center">
         Ecossistema Fullstack e Mobile para rastreamento e auditoria de entregas em tempo real, garantindo integridade de pacotes e validação em campo.
       </p>

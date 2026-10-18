@@ -49,8 +49,8 @@ Engenheiro de Computação e Analista de Sistemas com foco na construção de ar
 <div align="center">
 
   <!-- LINHA 1: ALTURA TRAVADA EM 165PX PARA IGUALAR OS DOIS CARDS -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeSrutkoske&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2" />&nbsp;
-  <img height="165" src="https://streak-stats.demolab.com?user=FelipeSrutkoske&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=50fa7b" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeSrutkoske&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2" />&nbsp; -->
+  <img height="330" src="https://streak-stats.demolab.com?user=FelipeSrutkoske&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=50fa7b" />
 
   <br/><br/>
 

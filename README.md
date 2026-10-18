@@ -53,14 +53,14 @@ Engenheiro de Software com foco na construção de arquiteturas backend robustas
   <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeSrutkoske&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2" />&nbsp; -->
   <img height="330" src="https://streak-stats.demolab.com?user=FelipeSrutkoske&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=50fa7b" />
 
-  <br/><br/>
+  <br/>
 
   <!-- LINHA 2: TRÊS CARDS DA MESMA FAMÍLIA (PROPORÇÃO IDÊNTICA 340x200) -->
   <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeSrutkoske&theme=dracula" />&nbsp;
   <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeSrutkoske&theme=dracula" />&nbsp;
   <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FelipeSrutkoske&theme=dracula&utcOffset=-3" />
 
-  <br/><br/>
+  <br/>
 
   <!-- LINHA 3: GRÁFICO GERAL DE CONTRIBUIÇÕES -->
   <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeSrutkoske&theme=dracula" />

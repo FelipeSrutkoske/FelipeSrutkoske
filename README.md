@@ -13,7 +13,6 @@
     <a href="https://felipesrutkoske.dev" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-felipesrutkoske.dev-bd93f9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=282a36" height="28" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/felipesrutkoske/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Felipe_Srutkoske-6272a4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282a36" height="28" /></a>&nbsp;
     <a href="mailto:contato@felipesrutkoske.dev"><img src="https://img.shields.io/badge/Email-Contato_Direto-ff79c6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282a36" height="28" /></a>&nbsp;
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=FelipeSrutkoske.FelipeSrutkoske&left_color=%23282a36&right_color=%2350fa7b&left_text=Views" height="28" />
   </p>
 
 </div>

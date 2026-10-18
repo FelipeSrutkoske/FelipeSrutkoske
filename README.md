@@ -1,27 +1,19 @@
 <div align="center">
 
-  <!-- HEADER DINÂMICO (CAPSULE RENDER) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Felipe%20Srutkoske&fontSize=46&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Fullstack%20Developer&descAlignY=58&descSize=18" alt="Header" />
+  <!-- HEADER ESTÁVEL (HEX DIRETO EVITA TIMEOUT NO GITHUB CAMO) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=180&section=header&text=Felipe%20Srutkoske&fontSize=44&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Fullstack%20Developer&descAlignY=58&descSize=18" />
 
   <!-- TYPING SVG (EFEITO DE TERMINAL) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=750&lines=Arquitetura+de+Sistemas+Escal%C3%A1veis+%26+Microsservi%C3%A7os;Backend+Specialist+(Go%2C+Node.js%2C+NestJS%2C+TypeScript);Fullstack+Development+(React%2C+Next.js%2C+React+Native);Engenharia+de+Dados+SQL+%26+Infraestrutura+em+Containers" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=750&lines=Arquitetura+de+Sistemas+Escal%C3%A1veis+%26+Microsservi%C3%A7os;Backend+Specialist+(Go%2C+Node.js%2C+NestJS%2C+TypeScript);Fullstack+Development+(React%2C+Next.js%2C+React+Native);Engenharia+de+Dados+SQL+%26+Infraestrutura+em+Containers" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- BADGES DE REDES E PORTFÓLIO -->
+  <!-- BADGES DE REDES E PORTFÓLIO (SEM QUEBRA E COM VISITOR BADGE ESTÁVEL) -->
   <p align="center">
-    <a href="https://felipesrutkoske.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portf%C3%B3lio-felipesrutkoske.dev-bd93f9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=282a36" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/felipesrutkoske/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Felipe_Srutkoske-6272a4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282a36" alt="LinkedIn" />
-    </a>
-    <a href="mailto:contato@felipesrutkoske.dev">
-      <img src="https://img.shields.io/badge/Email-Contato_Direto-ff79c6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282a36" alt="Email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=FelipeSrutkoske&label=Profile%20Views&color=50fa7b&style=for-the-badge&labelColor=282a36" alt="Views" />
+    <a href="https://felipesrutkoske.dev" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-felipesrutkoske.dev-bd93f9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=282a36" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/felipesrutkoske/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Felipe_Srutkoske-6272a4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282a36" /></a>&nbsp;
+    <a href="mailto:contato@felipesrutkoske.dev"><img src="https://img.shields.io/badge/Email-Contato_Direto-ff79c6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282a36" /></a>&nbsp;
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=FelipeSrutkoske.FelipeSrutkoske&left_color=%23282a36&right_color=%2350fa7b&left_text=Views" height="28" />
   </p>
 
 </div>
@@ -56,33 +48,22 @@ Engenheiro de Computação e Analista de Sistemas com foco na construção de ar
 ### `>_ metrics --dashboard`
 
 <div align="center">
-  <!-- TROFÉUS DO GITHUB -->
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeSrutkoske&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" width="100%" />
-  
-  <br/><br/>
 
-  <!-- CARDS DE PERFORMANCE E LINGUAGENS LADO A LADO -->
-  <a href="https://github.com/FelipeSrutkoske">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSrutkoske&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/FelipeSrutkoske">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSrutkoske&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" alt="Top Languages" />
-  </a>
+  <!-- LINHA 1: GITHUB STATS & STREAK STATS (49% DE LARGURA CADA = ALINHAMENTO PERFEITO) -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FelipeSrutkoske&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=FelipeSrutkoske&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=50fa7b" />
 
-  <br/><br/>
+  <br/>
 
-  <!-- STREAK STATS & SUMMARY CARDS -->
-  <a href="https://github.com/FelipeSrutkoske">
-    <img height="175em" src="https://streak-stats.demolab.com?user=FelipeSrutkoske&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=50fa7b" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/FelipeSrutkoske">
-    <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeSrutkoske&theme=dracula" alt="Profile Summary" />
-  </a>
+  <!-- LINHA 2: TOP LANGUAGES & COMMITS POR HORA (49% DE LARGURA CADA) -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSrutkoske&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FelipeSrutkoske&theme=dracula&utcOffset=-3" />
 
-  <br/><br/>
+  <br/>
 
-  <!-- GRÁFICO DE ATIVIDADE DE COMMITS -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeSrutkoske&bg_color=282a36&color=bd93f9&line=50fa7b&point=ff79c6&area=true&hide_border=true" alt="Activity Graph" />
+  <!-- LINHA 3: GRÁFICO DE ATIVIDADE LARGO (99% PARA FECHAR O GRID UNIFORME) -->
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeSrutkoske&theme=dracula" />
+
 </div>
 
 ---
@@ -132,9 +113,7 @@ Engenheiro de Computação e Analista de Sistemas com foco na construção de ar
   </tr>
 </table>
 
----
-
 <div align="center">
-  <!-- FOOTER ONDULADO -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=110&section=footer" alt="Footer" />
+  <!-- FOOTER ESTÁVEL -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=100&section=footer" />
 </div>

@@ -73,7 +73,7 @@ Engenheiro de Software com foco na construção de arquiteturas backend robustas
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center"> <img src="https://api.iconify.design/lucide/car-front.svg?color=white" width="16" alt="Carro"> VehiGo - Plataforma de Locação em Microsserviços</h4>
+      <h4 align="center"> <img src="https://api.iconify.design/lucide/car-front.svg?color=white" width="12" alt="Carro"> VehiGo - Plataforma de Locação em Microsserviços</h4>
       <p align="center">
         Arquitetura distribuída para gestão e locação de veículos com API Gateway, cache de alta velocidade e isolamento de serviços em containers.
       </p>
@@ -82,7 +82,7 @@ Engenheiro de Software com foco na construção de arquiteturas backend robustas
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"> <img src="https://api.iconify.design/lucide/package.svg?color=white" width="16" alt="Pacote"> TrackIt - Auditoria Logística Last-Mile</h4>
+      <h4 align="center"> <img src="https://api.iconify.design/lucide/package.svg?color=white" width="12" alt="Pacote"> TrackIt - Auditoria Logística Last-Mile</h4>
       <p align="center">
         Ecossistema Fullstack e Mobile para rastreamento e auditoria de entregas em tempo real, garantindo integridade de pacotes e validação em campo.
       </p>
@@ -93,7 +93,7 @@ Engenheiro de Software com foco na construção de arquiteturas backend robustas
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center"> <img src="https://api.iconify.design/lucide/bug.svg?color=white" width="16" alt="Bug"> Look4 - Análise de Segurança & Threat Intelligence</h4>
+      <h4 align="center"> <img src="https://api.iconify.design/lucide/bug.svg?color=white" width="12" alt="Bug"> Look4 - Análise de Segurança & Threat Intelligence</h4>
       <p align="center">
         Aplicação nativa para desktop Linux voltada à inspeção e verificação de URLs suspeitas com integração direta à API do VirusTotal.
       </p>
@@ -102,7 +102,7 @@ Engenheiro de Software com foco na construção de arquiteturas backend robustas
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"> <img src="https://api.iconify.design/lucide/wallet.svg?color=white" width="16" alt="Finanças"> Konta - Dashboard de Gestão Financeira</h4>
+      <h4 align="center"> <img src="https://api.iconify.design/lucide/wallet.svg?color=white" width="12" alt="Finanças"> Konta - Dashboard de Gestão Financeira</h4>
       <p align="center">
         Aplicação web moderna para controle de fluxo de caixa, visualização de métricas financeiras e consolidação de relatórios analíticos.
       </p>

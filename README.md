@@ -29,7 +29,7 @@ Engenheiro de Software com foco na construção de arquiteturas backend robustas
 
 ---
 
-<img src="https://api.iconify.design/lucide/terminal.svg?color=%2358A6FF" width="18" align="center" /> ### `>_ tech_stack --list`
+<img src="https://api.iconify.design/lucide/terminal.svg?color=%2358A6FF" width="18" align="center" /> `tech_stack --list`
 
 
 <div align="center">

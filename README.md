@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://www.gitskins.com/api/readme-reference/hero?username=torvalds&theme=neon&role=Backend%20or%20systems%20engineer&location=Portland%2C%20OR&v=readme-reference-2" width="100%" alt="Linus Torvalds profile banner" />
+
   <!-- TÍTULO PRINCIPAL (VIA DEMOLAB SVG - 100% ONLINE E SEM QUEDAS DA VERCEL) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=5000&color=F8F8F2&center=true&vCenter=true&repeat=false&width=850&height=65&lines=Felipe+Srutkoske" />
 

@@ -15,6 +15,15 @@
 
   <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=FelipeSrutkoske&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div
 
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=FelipeSrutkoske&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+      <img src="https://www.gitskins.com/api/section/heatmap?username=FelipeSrutkoske&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1024025%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Felipe Srutkoske contribution activity" />
+    </picture>
+  </p>
+
+  <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=FelipeSrutkoske&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div
+
   <!-- TÍTULO PRINCIPAL (VIA DEMOLAB SVG - 100% ONLINE E SEM QUEDAS DA VERCEL) -->
   <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=5000&color=F8F8F2&center=true&vCenter=true&repeat=false&width=850&height=65&lines=Felipe+Srutkoske" /> 
 

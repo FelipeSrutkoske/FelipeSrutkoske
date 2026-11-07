@@ -4,6 +4,8 @@
  
   <img src="https://www.gitskins.com/api/readme-reference/hero?username=FelipeSrutkoske&theme=neon&role=Fullstack%20Developer&location=Campo%20Mourao%2C%20OR&v=readme-reference-2" width="100%" alt="Felipe Srutkoske profile." />
 
+  <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=FelipeSrutkoske&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
   <!-- TÍTULO PRINCIPAL (VIA DEMOLAB SVG - 100% ONLINE E SEM QUEDAS DA VERCEL) -->
   <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=5000&color=F8F8F2&center=true&vCenter=true&repeat=false&width=850&height=65&lines=Felipe+Srutkoske" /> 
 

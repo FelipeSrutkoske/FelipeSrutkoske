@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="https://www.gitskins.com/api/readme-reference/hero?username=torvalds&theme=neon&role=Backend%20or%20systems%20engineer&location=Portland%2C%20OR&v=readme-reference-2" width="100%" alt="Linus Torvalds profile banner" />
+  <img src="https://www.gitskins.com/api/readme-reference/hero?username=FelipeSrutkoske&theme=neon&role=Fullstack%20Developer&location=Campo%20Mourao%2C%20OR&v=readme-reference-2" width="100%" alt="Felipe Srutkoske profile banner" />
 
   <!-- TÍTULO PRINCIPAL (VIA DEMOLAB SVG - 100% ONLINE E SEM QUEDAS DA VERCEL) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=5000&color=F8F8F2&center=true&vCenter=true&repeat=false&width=850&height=65&lines=Felipe+Srutkoske" />
+  <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=5000&color=F8F8F2&center=true&vCenter=true&repeat=false&width=850&height=65&lines=Felipe+Srutkoske" /> 
 
   <!-- SUBTÍTULO ANIMADO -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=800&height=40&lines=Software+Engineer+%7C+Backend+%26+Fullstack+Developer;Arquitetura+de+Sistemas+Escal%C3%A1veis+%26+Microsservi%C3%A7os;Backend+Developer+(Go%2C+Node.js%2C+NestJS%2C+TypeScript);Engenharia+de+Dados+SQL+%26+Infraestrutura+em+Containers" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=800&height=40&lines=Software+Engineer+%7C+Backend+%26+Fullstack+Developer;Arquitetura+de+Sistemas+Escal%C3%A1veis+%26+Microsservi%C3%A7os;Backend+Developer+(Go%2C+Node.js%2C+NestJS%2C+TypeScript);Engenharia+de+Dados+SQL+%26+Infraestrutura+em+Containers" /> -->
 
   <br/><br/>
 
